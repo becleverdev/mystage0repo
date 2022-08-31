@@ -1,2 +1,1 @@
-New md file for cloning git repo!
-New md file for cloning git repo! Second line.
+This is a new readme file. It explains all features of this project.
