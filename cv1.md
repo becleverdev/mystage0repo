@@ -1,4 +1,7 @@
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+```javascript
+let message = 'Hello world';
+alert(message);
+```
 
 
 
