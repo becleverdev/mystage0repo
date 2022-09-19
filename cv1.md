@@ -1,7 +1,8 @@
-```javascript
-let message = 'Hello world';
-alert(message);
-```
+Это [ссылка]( "Агентство TexTerra") с тайтлом.
+
+[Эта ссылка](http://example.net/) без заголовка.
+
+<https://texterra.ru/> – а это безанкорная ссылка.
 
 
 
