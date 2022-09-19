@@ -1,4 +1,9 @@
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+Простой текст
+*наклонный текст* 
+**жирный текст** 
+***жирный наклонный текст*** 
+~~зачеркнутый текст~~
+~нижний текст~
+^верхний текст^
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
 
